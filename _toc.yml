@@ -1,0 +1,70 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: README
+parts:
+  - caption: 钢琴
+    chapters:
+      - file: 钢琴/
+      - file: 钢琴/
+      - file: 钢琴/
+      - file: 钢琴/
+      - file: 钢琴/
+      - file: 钢琴/
+      - file: 钢琴/
+      - file: 钢琴/
+  - caption: 其他西洋乐器
+    chapters:
+      - file: 其他西洋乐器/
+      - file: 其他西洋乐器/
+      - file: 其他西洋乐器/
+      - file: 其他西洋乐器/
+      - file: 其他西洋乐器/
+      - file: 其他西洋乐器/
+  - caption: 民族乐器
+    chapters:
+      - file: 民族乐器/
+      - file: 民族乐器/
+      - file: 民族乐器/
+      - file: 民族乐器/
+      - file: 民族乐器/
+      - file: 民族乐器/
+      - file: 民族乐器/
+      - file: 民族乐器/
+      - file: 民族乐器/
+      - file: 民族乐器/
+      - file: 民族乐器/
+      - file: 民族乐器/
+      - file: 民族乐器/
+  - caption: 声乐
+    chapters:
+      - file: 声乐/
+      - file: 声乐/
+      - file: 声乐/
+      - file: 声乐/
+      - file: 声乐/
+      - file: 声乐/
+      - file: 声乐/
+      - file: 声乐/
+      - file: 声乐/
+      - file: 声乐/
+      - file: 声乐/
+      - file: 声乐/
+      - file: 声乐/
+      - file: 声乐/
+      - file: 声乐/
+      - file: 声乐/
+      - file: 声乐/
+      - file: 声乐/
+  - caption: 理论
+    chapters:
+      - file: 理论/
+      - file: 理论/
+      - file: 理论/
+      - file: 理论/
+      - file: 理论/
+      - file: 理论/
+      - file: 理论/
+      - file: 理论/
+      - file: 理论/

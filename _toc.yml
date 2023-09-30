@@ -6,65 +6,16 @@ root: README
 parts:
   - caption: 钢琴
     chapters:
-      - file: 钢琴/
-      - file: 钢琴/
-      - file: 钢琴/
-      - file: 钢琴/
-      - file: 钢琴/
-      - file: 钢琴/
-      - file: 钢琴/
-      - file: 钢琴/
+      - file: 钢琴/index.md
   - caption: 其他西洋乐器
     chapters:
-      - file: 其他西洋乐器/
-      - file: 其他西洋乐器/
-      - file: 其他西洋乐器/
-      - file: 其他西洋乐器/
-      - file: 其他西洋乐器/
-      - file: 其他西洋乐器/
+      - file: 其他西洋乐器/index.md
   - caption: 民族乐器
     chapters:
-      - file: 民族乐器/
-      - file: 民族乐器/
-      - file: 民族乐器/
-      - file: 民族乐器/
-      - file: 民族乐器/
-      - file: 民族乐器/
-      - file: 民族乐器/
-      - file: 民族乐器/
-      - file: 民族乐器/
-      - file: 民族乐器/
-      - file: 民族乐器/
-      - file: 民族乐器/
-      - file: 民族乐器/
+      - file: 民族乐器/index.md
   - caption: 声乐
     chapters:
-      - file: 声乐/
-      - file: 声乐/
-      - file: 声乐/
-      - file: 声乐/
-      - file: 声乐/
-      - file: 声乐/
-      - file: 声乐/
-      - file: 声乐/
-      - file: 声乐/
-      - file: 声乐/
-      - file: 声乐/
-      - file: 声乐/
-      - file: 声乐/
-      - file: 声乐/
-      - file: 声乐/
-      - file: 声乐/
-      - file: 声乐/
-      - file: 声乐/
+      - file: 声乐/index.md
   - caption: 理论
     chapters:
-      - file: 理论/
-      - file: 理论/
-      - file: 理论/
-      - file: 理论/
-      - file: 理论/
-      - file: 理论/
-      - file: 理论/
-      - file: 理论/
-      - file: 理论/
+      - file: 理论/index.md
